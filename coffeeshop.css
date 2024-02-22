@@ -1,0 +1,294 @@
+/*Title*/
+.aesthetic {
+    font-family: 'Yanone Kaffeesatz', 'Playfair Display', 'sans-serif';
+    font-weight: lighter;
+    font-size: 80px;
+    color: azure;
+    text-align: center;
+    letter-spacing: 0.25cm;
+    line-height: 3cm;
+    background-image: url("https://images.unsplash.com/photo-1616091216791-a5360b5fc78a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWVzdGhldGljJTIwY2FmZXxlbnwwfHwwfHx8MA%3D%3D");
+}
+
+/*Palette Section*/
+.CP {
+    float: left;
+    margin: 0 1.5%;
+    width: 30%;
+}
+
+.style {
+    float: right;
+    margin: 0 1.5%;
+    width: 63%;
+}
+
+
+
+.colors {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: lighter;
+    font-size: 50px;
+    letter-spacing: 0.05cm;
+    margin-left: 75px;
+    margin-right: 75px;
+    line-height: 0px;
+}
+
+
+.cream {
+    background-color: #E4CFBB;
+    color: #ffff;
+    font-family: 'Yanone Kaffeesatz';
+    letter-spacing: 0.25cm;
+    line-height: 50px;
+    font-weight: light;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 350px;
+    border-radius: 3px;
+    margin: 5px 5px;
+    padding-top: 10px
+    }
+
+.latte {
+    background-color: #C6A988;
+    color: #ffff;
+    font-family: 'Yanone Kaffeesatz';
+    letter-spacing: 0.25cm;
+    line-height: 50px;
+    font-weight: light;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 350px;
+    border-radius: 3px;
+    margin: 5px 5px;
+    padding-top: 10px
+}
+
+.almond {
+    background-color: #dfa160;
+    color: #ffff;
+    font-family: 'Yanone Kaffeesatz';
+    letter-spacing: 0.25cm;
+    line-height: 50px;
+    font-weight: light;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 350px;
+    border-radius: 3px;
+    margin: 5px 5px;
+    padding-top: 10px
+}
+
+.caramel {
+    background-color: #AD6D2f;
+    color: #ffff;
+    font-family: 'Yanone Kaffeesatz';
+    letter-spacing: 0.25cm;
+    line-height: 50px;
+    font-weight: light;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 350px;
+    border-radius: 3px;
+    margin: 5px 5px;
+    padding-top: 10px
+}
+
+.espresso {
+    background-color: #80411E;
+    color: #ffff;
+    font-family: 'Yanone Kaffeesatz';
+    letter-spacing: 0.25cm;
+    line-height: 50px;
+    font-weight: light;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 350px;
+    border-radius: 3px;
+    margin: 5px 5px;
+    padding-top: 10px
+}
+
+.mocha {
+    background-color: #492310;
+    color: #ffff;
+    font-family: 'Yanone Kaffeesatz';
+    letter-spacing: 0.25cm;
+    line-height: 50px;
+    font-weight: light;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    max-width: 350px;
+    border-radius: 3px;
+    margin: 5px 5px;
+    padding-top: 10px
+}
+
+/*Fonts Section*/
+
+.Fontstitle {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: lighter;
+    font-size: 50px;
+    letter-spacing: 0.05cm;
+    text-align: center;
+}
+
+.Yanone {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: lighter;
+    font-size: 30px;
+    letter-spacing: 0.05cm;
+    text-align: left;
+}
+
+.yanonelight {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: lighter;
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: left;
+}
+.YanoneNormal {
+    font-family: 'Yanone Kaffeesatz';
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: left;
+}
+.YanoneBold {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: bolder;
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: left;
+}
+
+.YanoneItalic {
+    font-family: 'Yanone Kaffeesatz';
+    font-style: italic ;
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: left;
+}
+
+.Acme {
+    font-family: 'Acme';
+    font-weight: lighter;
+    font-size: 30px;
+    letter-spacing: 0.05cm;
+    text-align: center;
+  
+}
+
+.acmenormal {
+    font-family: 'Acme';
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: center;
+   
+}
+
+.acmebold {
+    font-family: 'Acme';
+    font-weight: bolder;
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: center;
+ 
+}
+
+.acmeitalic {
+    font-family: 'Acme';
+    font-style: italic;
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: center;
+
+}
+.Playfair {
+    font-family: 'Playfair';
+    font-weight: lighter;
+    font-size: 30px;
+    letter-spacing: 0.05cm;
+    text-align: right;
+}
+
+.playfairnormal {
+    font-family: 'Playfair';
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: right;
+}
+
+.playfairbold {
+    font-family: 'Playfair';
+    font-weight: bolder;
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: right;
+}
+
+.playfairitalic {
+    font-family: 'Playfair';
+    font-style: italic;
+    font-size: 25px;
+    letter-spacing: 0.05cm;
+    text-align: right;
+}
+
+/*Syling Section*/
+
+h3 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Stitle {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: lighter;
+    font-size: 50px;
+    letter-spacing: 0.05cm;
+    margin-left: 75px;
+    margin-right: 75px;
+    line-height: 0px;
+    text-align: center;
+}
+
+
+.mph {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+.headings {
+    font-family: Acme;
+    font-size: 25px;
+    letter-spacing: .05cm;
+    text-transform: uppercase;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.Paragraph {
+    font-family: Playfair Display;
+    font-size: 25px;
+    letter-spacing: .05;
+    text-transform: uppercase;
+    font-weight: lighter;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style:none;
+}
